@@ -23,8 +23,12 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"61567641756782", 
+		"100053227594219",
+		"100068644124463",
+		"61559119588245", 
 		"61556662494233", 
+		"8547249538634911",
+		"7029665547135447"
 		
 	],
 	"whiteListMode": {
@@ -150,4 +154,4 @@
 		"autoReconnect": false,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
-}
+	}
